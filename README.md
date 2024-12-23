@@ -2,12 +2,8 @@
 
 # Next Generation Sequencing Bioinformatics - Asia
 
-## 3–8 November 2024, Monash University, Malaysia and Genome Institute of Singapore
-
-[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) <br /> 
-[Course Time Table Singapore](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/SingaporeTimetable.pdf) <br /> 
-[Course Time Table Malaysia](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/MalaysiaTimeTable.pdf) <br /> 
-[Course Informatics Guide](https://github.com/WCSCourses/NGS_Bioinformatics_2024/blob/main/Course_Informatics_Guide.md)
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
+[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
 Learn to analyse next-generation sequence data to address a wide range of biological questions
 
@@ -56,33 +52,12 @@ The hands-on programme will cover several aspects of next generation sequencing 
 
 The course should not be considered a complete education in the theoretical and mathematical foundations of the topics.
 
-**Scientific Organising Committee**
+**Course Runs**      
 
-- [Qasim Ayub](https://www.monash.edu.my/science/staff/academic/qasim-ayub), Monash University, Malaysia
-- [Jacqueline Keane](https://www.sanger.ac.uk/people/directory/keane-jacqueline), Wellcome Sanger Institute, UK
-- [Thomas Keane](https://www.ebi.ac.uk/about/people/thomas-keane), European Bioinfromatics Institute, UK
-
-**Course Instructors**      
-
-- [Arporn (Koi) Wangwiwatsin](https://www.researchgate.net/profile/Arporn-koi-Wangwiwatsin), Khon Kaen University, Thailand
-- [Jin Li](), Oujiang Laboratory, China 
-- [Jingtao Lilue](https://www.researchgate.net/profile/Jingtao-Lilue), Oujiang Laboratory, China 
-- [Adaikalavan Ramasamy](https://www.a-star.edu.sg/sics/About-Us/Our-Investigators/Adaikalavan-Ramasamy), Genome Institute of Singapore
-- [Aswini Leela Loganathan](https://www.monash.edu.my/science/staff/academic/aswini-leela), Monash University, Malaysia
-- [Vivek Iyer](https://www.sanger.ac.uk/person/iyer-vivek/), Wellcome Sanger Institute, UK
-- [Wee Wei Yee (Gavin)](https://www.monash.edu.my/science/staff/academic/wee-wei-yee-gavin), Monash University, Malaysia
-- [Gokce Oguz](https://www.researchgate.net/profile/Gokce-Oguz), Genome Institute of Singapore
-- [Hong Leong Cheah](https://research.monash.edu/en/persons/hong-leong-cheah), Monash University, Malaysia
-- [Onnapa Kongphan](), Khon Kaen University, Thailand
-
-**Wellcome Connecting Science Team**  
-
-- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
-- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
-- [Isabela Malta](https://www.linkedin.com/in/isabela-malta-754503162/), Assistant Global Training Manager
-- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
-- [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
-- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+| Course Date | Course Title | Location |Citation DOI |
+|-------------|--------------|----------|-------------|
+| 24–31 March 2023  | [Next Generation Sequencing](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-20230324/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/842479803.svg)](https://zenodo.org/doi/10.5281/zenodo.13322279) |
+| 3–8 November 2024  | [Next Generation Sequencing Bioinformatics - Asia](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) | Monash University, Malaysia and Genome Institute of Singapore | Citation DOI |
 
 ******
 
