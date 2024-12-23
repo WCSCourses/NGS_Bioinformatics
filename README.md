@@ -56,8 +56,11 @@ The course should not be considered a complete education in the theoretical and 
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| 24–31 March 2023  | [Next Generation Sequencing](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-20230324/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/842479803.svg)](https://zenodo.org/doi/10.5281/zenodo.13322279) |
-| 3–8 November 2024  | [Next Generation Sequencing Bioinformatics - Asia](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-asia-20241103/) | Monash University, Malaysia and Genome Institute of Singapore | Citation DOI |
+| 24–31 March 2023  | [Next Generation Sequencing](https://github.com/WCSCourses/NGS_23) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13322280.svg)](https://doi.org/10.5281/zenodo.13322280) |
+| 3–8 November 2024  | [Next Generation Sequencing Bioinformatics - Asia](https://github.com/WCSCourses/NGS_Bioinformatics_2024) | Monash University, Malaysia and Genome Institute of Singapore | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14547711.svg)](https://doi.org/10.5281/zenodo.14547711) |
+| 21–28 March 2025 | [Next Generation Sequencing Bioinformatics](https://github.com/WCSCourses/NGS_Bioinformatics_2025) | Wellcome Genome Campus, UK| DOI coming soon |
+
+**Cite all versions of the course run?** You can cite all versions by using the [DOI 10.5281/zenodo.13322279](https://doi.org/10.5281/zenodo.13322279). This DOI represents all versions, and will always resolve to the latest one. 
 
 ******
 
